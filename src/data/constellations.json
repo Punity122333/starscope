@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Ursa Major",
+    "stars": [
+      { "x": 700, "y": 650, "magnitude": 2 },
+      { "x": 750, "y": 620, "magnitude": 3 },
+      { "x": 800, "y": 610, "magnitude": 2 },
+      { "x": 850, "y": 630, "magnitude": 3 },
+      { "x": 900, "y": 660, "magnitude": 2 },
+      { "x": 870, "y": 710, "magnitude": 3 },
+      { "x": 820, "y": 720, "magnitude": 2 }
+    ],
+    "description": "The Great Bear - Home to the Big Dipper"
+  },
+  {
+    "name": "Orion",
+    "stars": [
+      { "x": 1100, "y": 800, "magnitude": 1 },
+      { "x": 1150, "y": 750, "magnitude": 2 },
+      { "x": 1200, "y": 800, "magnitude": 1 },
+      { "x": 1125, "y": 875, "magnitude": 3 },
+      { "x": 1175, "y": 900, "magnitude": 2 },
+      { "x": 1140, "y": 950, "magnitude": 3 },
+      { "x": 1160, "y": 1000, "magnitude": 2 }
+    ],
+    "description": "The Hunter - One of the most recognizable constellations"
+  },
+  {
+    "name": "Cassiopeia",
+    "stars": [
+      { "x": 450, "y": 400, "magnitude": 2 },
+      { "x": 500, "y": 375, "magnitude": 3 },
+      { "x": 550, "y": 400, "magnitude": 2 },
+      { "x": 600, "y": 375, "magnitude": 3 },
+      { "x": 650, "y": 400, "magnitude": 2 }
+    ],
+    "description": "The Queen - A distinctive W shape"
+  },
+  {
+    "name": "Leo",
+    "stars": [
+      { "x": 300, "y": 800, "magnitude": 2 },
+      { "x": 350, "y": 780, "magnitude": 3 },
+      { "x": 400, "y": 820, "magnitude": 2 },
+      { "x": 380, "y": 860, "magnitude": 3 },
+      { "x": 330, "y": 870, "magnitude": 2 },
+      { "x": 280, "y": 840, "magnitude": 3 }
+    ],
+    "description": "The Lion - A proud constellation representing strength"
+  },
+  {
+    "name": "Scorpius",
+    "stars": [
+      { "x": 1200, "y": 1200, "magnitude": 1 },
+      { "x": 1150, "y": 1250, "magnitude": 2 },
+      { "x": 1100, "y": 1300, "magnitude": 2 },
+      { "x": 1050, "y": 1350, "magnitude": 3 },
+      { "x": 1000, "y": 1380, "magnitude": 2 },
+      { "x": 950, "y": 1400, "magnitude": 3 }
+    ],
+    "description": "The Scorpion - Features the bright star Antares"
+  },
+  {
+    "name": "Cygnus",
+    "stars": [
+      { "x": 200, "y": 200, "magnitude": 2 },
+      { "x": 250, "y": 180, "magnitude": 3 },
+      { "x": 300, "y": 200, "magnitude": 2 },
+      { "x": 280, "y": 250, "magnitude": 3 },
+      { "x": 320, "y": 280, "magnitude": 2 },
+      { "x": 270, "y": 120, "magnitude": 3 }
+    ],
+    "description": "The Swan - Also known as the Northern Cross"
+  },
+  {
+    "name": "Aquarius",
+    "stars": [
+      { "x": 1350, "y": 400, "magnitude": 2 },
+      { "x": 1300, "y": 420, "magnitude": 3 },
+      { "x": 1280, "y": 460, "magnitude": 2 },
+      { "x": 1320, "y": 500, "magnitude": 3 },
+      { "x": 1360, "y": 480, "magnitude": 2 },
+      { "x": 1380, "y": 440, "magnitude": 3 }
+    ],
+    "description": "The Water Bearer - Known for its distinctive water jar shape"
+  },
+  {
+    "name": "Gemini",
+    "stars": [
+      { "x": 600, "y": 1100, "magnitude": 2 },
+      { "x": 650, "y": 1080, "magnitude": 2 },
+      { "x": 620, "y": 1150, "magnitude": 3 },
+      { "x": 680, "y": 1140, "magnitude": 3 },
+      { "x": 600, "y": 1200, "magnitude": 2 },
+      { "x": 650, "y": 1190, "magnitude": 2 }
+    ],
+    "description": "The Twins - Represents Castor and Pollux"
+  },
+  {
+    "name": "Sagittarius",
+    "stars": [
+      { "x": 50, "y": 1200, "magnitude": 2 },
+      { "x": 100, "y": 1180, "magnitude": 3 },
+      { "x": 150, "y": 1220, "magnitude": 2 },
+      { "x": 120, "y": 1260, "magnitude": 3 },
+      { "x": 80, "y": 1280, "magnitude": 2 },
+      { "x": 40, "y": 1250, "magnitude": 3 }
+    ],
+    "description": "The Archer - Points toward the center of our galaxy"
+  },
+  {
+    "name": "Draco",
+    "stars": [
+      { "x": 1400, "y": 200, "magnitude": 2 },
+      { "x": 1350, "y": 150, "magnitude": 3 },
+      { "x": 1300, "y": 100, "magnitude": 2 },
+      { "x": 1250, "y": 120, "magnitude": 3 },
+      { "x": 1200, "y": 80, "magnitude": 2 },
+      { "x": 1150, "y": 60, "magnitude": 3 },
+      { "x": 1100, "y": 100, "magnitude": 2 }
+    ],
+    "description": "The Dragon - A long winding constellation around the pole"
+  },
+  {
+    "name": "Andromeda",
+    "stars": [
+      { "x": 850, "y": 200, "magnitude": 2 },
+      { "x": 900, "y": 180, "magnitude": 3 },
+      { "x": 950, "y": 220, "magnitude": 2 },
+      { "x": 980, "y": 260, "magnitude": 3 },
+      { "x": 920, "y": 280, "magnitude": 2 }
+    ],
+    "description": "The Princess - Contains the nearest major galaxy to ours"
+  },
+  {
+    "name": "Perseus",
+    "stars": [
+      { "x": 350, "y": 300, "magnitude": 2 },
+      { "x": 400, "y": 280, "magnitude": 3 },
+      { "x": 450, "y": 320, "magnitude": 2 },
+      { "x": 420, "y": 360, "magnitude": 3 },
+      { "x": 380, "y": 380, "magnitude": 2 },
+      { "x": 330, "y": 350, "magnitude": 3 }
+    ],
+    "description": "The Hero - Famous for the variable star Algol"
+  },
+  {
+    "name": "Lyra",
+    "stars": [
+      { "x": 100, "y": 600, "magnitude": 1 },
+      { "x": 130, "y": 580, "magnitude": 3 },
+      { "x": 160, "y": 600, "magnitude": 3 },
+      { "x": 140, "y": 640, "magnitude": 3 },
+      { "x": 110, "y": 650, "magnitude": 3 }
+    ],
+    "description": "The Lyre - Contains the bright star Vega"
+  },
+  {
+    "name": "Taurus",
+    "stars": [
+      { "x": 1300, "y": 1000, "magnitude": 2 },
+      { "x": 1350, "y": 980, "magnitude": 3 },
+      { "x": 1400, "y": 1020, "magnitude": 2 },
+      { "x": 1380, "y": 1060, "magnitude": 3 },
+      { "x": 1320, "y": 1080, "magnitude": 2 },
+      { "x": 1270, "y": 1050, "magnitude": 3 }
+    ],
+    "description": "The Bull - Features the Pleiades star cluster"
+  },
+  {
+    "name": "Virgo",
+    "stars": [
+      { "x": 400, "y": 1300, "magnitude": 2 },
+      { "x": 450, "y": 1280, "magnitude": 3 },
+      { "x": 500, "y": 1320, "magnitude": 2 },
+      { "x": 480, "y": 1360, "magnitude": 3 },
+      { "x": 430, "y": 1380, "magnitude": 2 },
+      { "x": 380, "y": 1350, "magnitude": 3 },
+      { "x": 350, "y": 1320, "magnitude": 2 }
+    ],
+    "description": "The Maiden - Contains the bright star Spica"
+  }
+]
