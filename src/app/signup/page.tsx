@@ -1,18 +1,17 @@
 import ConstellationBackground from '@/components/ConstellationBackground';
 import Navigation from '@/components/Navigation';
-import HeroSection from '@/components/HeroSection';
+import SignupSection from '@/components/SignupSection';
 import ProfileSection from '@/components/ProfileSection';
-
 import Footer from '@/components/Footer';
 
-export default function Home() {
+export default function SignupPage() {
   return (
     <main className="relative">
       <ConstellationBackground />
       <Navigation />
       <ProfileSection />
       <div className="relative z-10">
-        <HeroSection />
+        <SignupSection />
         <Footer />
       </div>
     </main>

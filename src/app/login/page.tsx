@@ -1,18 +1,17 @@
-import ConstellationBackground from '@/components/ConstellationBackground';
-import Navigation from '@/components/Navigation';
-import HeroSection from '@/components/HeroSection';
+import LoginSection from '@/components/LoginSection';
 import ProfileSection from '@/components/ProfileSection';
-
+import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
+import ConstellationBackground from '@/components/ConstellationBackground';
 
-export default function Home() {
+export default function LoginPage() {
   return (
     <main className="relative">
       <ConstellationBackground />
       <Navigation />
       <ProfileSection />
       <div className="relative z-10">
-        <HeroSection />
+        <LoginSection />
         <Footer />
       </div>
     </main>

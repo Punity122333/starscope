@@ -1,18 +1,15 @@
-import ConstellationBackground from '@/components/ConstellationBackground';
+import ProfilePageSection from '@/components/ProfilePageSection';
 import Navigation from '@/components/Navigation';
-import HeroSection from '@/components/HeroSection';
-import ProfileSection from '@/components/ProfileSection';
-
+import ConstellationBackground from '@/components/ConstellationBackground';
 import Footer from '@/components/Footer';
 
-export default function Home() {
+export default function ProfilePage() {
   return (
     <main className="relative">
       <ConstellationBackground />
       <Navigation />
-      <ProfileSection />
       <div className="relative z-10">
-        <HeroSection />
+           <ProfilePageSection />
         <Footer />
       </div>
     </main>

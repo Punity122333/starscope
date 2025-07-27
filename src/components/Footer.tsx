@@ -48,6 +48,12 @@ const Footer = () => {
             <Link href="/learn" className="text-white/50 hover:text-[#64ffda] transition-colors duration-300 text-xs font-light tracking-[0.15em] uppercase">
               Learn
             </Link>
+           <Link href="/login" className="text-white/50 hover:text-[#64ffda] transition-colors duration-300 text-xs font-light tracking-[0.15em] uppercase">
+             Login
+           </Link>
+           <Link href="/signup" className="text-white/50 hover:text-[#64ffda] transition-colors duration-300 text-xs font-light tracking-[0.15em] uppercase">
+             Signup
+           </Link>
           </div>
 
           {/* Divider */}
